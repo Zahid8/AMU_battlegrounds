@@ -1,4 +1,3 @@
-Try it Out!
 # Brain Tumor Detection through MRI images.
 ## _Contactless Detection_
 
