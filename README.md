@@ -1,1 +1,2 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+Try it Out!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/Zahid8/AMU_battlegrounds/main/Brain_Tumor_Classification_(MRI).ipynb)
