@@ -10,7 +10,7 @@
 ##### ● Dhruv Garg
 
 
-#### Idea:
+### Idea:
 Brain and other nervous system cancer is the 10th leading cause of death for men and
 women. It is estimated that 18,600 adults (10,500 men and 8,100 women) will die from
 primary cancerous brain and CNS tumors this year.
@@ -41,7 +41,7 @@ computational power very low, making it to be easily accessible by simply pressi
 in google play, or by typing a website URL in the web browser.
 
 
-#### Features:
+### Features:
 Proper treatment, planning, and accurate diagnostics should be implemented to improve the
 life expectancy of the patients. The best technique to detect brain tumors is Magnetic
 Resonance Imaging (MRI). A huge amount of image data is generated through the scans.
@@ -72,20 +72,27 @@ interactive android app makes it easy for quick diagnosis. It has a high probabi
 it to mainstream medical diagnosis tools in the near future.
 
 
-#### Tech Stack:
+### Tech Stack:
 ● [Python] - Python is a programming language that lets you work quickly and
 integrate systems more effectively.
+
 ● [Tensorflow] - TensorFlow is a free and open-source software library for machine
 learning.
+
 ● [Numpy] - NumPy is the fundamental package for scientific computing in Python. It is
 a Python library that provides a multidimensional array object.
+
 ● [Matplotlib] - Matplotlib is a plotting library for the Python programming language
 and its numerical mathematics extension NumPy.
+
 ● [Keras] - Keras is an open-source software library that provides a Python interface
 for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+
 ● [Streamlit] - Streamlit turns data scripts into shareable web apps.
+
 ● [Flutter] - Flutter is an open-source UI software development kit created by Google.
 It is used to develop cross platform applications for Android, iOS.
+
 ● [Firebase] - Firebase is a platform developed by Google for creating mobile and web
 applications.
 
