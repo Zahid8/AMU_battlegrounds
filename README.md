@@ -1,7 +1,7 @@
 # Brain Tumor Detection through MRI images.
 ## _Contactless Detection_
 
-### Note : Android app is in another branch named "master". Please switch to the branch master to view the android app.
+### Note : Android app is in another branch named "master". Please switch to the branch "master" to view the android app.
 
 
 #### Team name : Protocol4
